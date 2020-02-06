@@ -1,11 +1,11 @@
-# anaian-particle-system
-A particle system. 粒子系统--梵高的鱼.
+# Van Gogh's fish
+A particle system, named as **Van Gogh's fish**.
 
-# demo1
-![demo1](https://github.com/Guguant/anaian-particle-system/blob/master/demo/demo1.gif)
+## demo1
+![demo1](demo/demo1.gif)
 
-# demo2
-![demo2](https://github.com/Guguant/anaian-particle-system/blob/master/demo/demo2.gif)
+## demo2
+![demo2](demo/demo2.gif)
 
 # Issues
 Please ask here https://github.com/Guguant/anaian-particle-system/issues. Thanks.
